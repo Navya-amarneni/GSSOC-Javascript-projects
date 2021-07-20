@@ -1,0 +1,35 @@
+/***************TAG SELECTORS*********/
+body{
+  background-color: #FAF3F3;
+}
+hr{
+border-style: none;
+border-top-style: dotted ;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+img{
+height: 200px;
+}
+h1{
+  color: #00ADB5;
+}
+h3{
+  color: #00ADB5;
+}
+
+/*****************CLASS SELECTORS****/
+.intro{
+  color: blue;
+}
+
+.image:hover{
+  background-color: #00ADB5;
+}
+
+/*******ID SELECTORS***********/
+#link{
+
+  color: blue;
+}
